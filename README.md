@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hogwarts-coder10
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...C Python Java
+- 🌱 I’m currently learning ...C, Python, Java, UI Development
 - 💞️ I’m looking to collaborate on ... a project that makes a new web browser
 - 📫 How to reach me ... LinkedIn
 - 😄 Pronouns: ...
