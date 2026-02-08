@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hogwarts-coder10
-- 👀 I’m interested in ...coding
+- 👋 Hi, I’m @Hogwarts-coder10 aka V SS Karthik
+- 👀 I’m interested in ...coding, debugging and learning
 - 🌱 I’m currently learning ...C, Python, Java, UI Development using Electron
 - 💞️ I’m looking to collaborate on ... a project that makes smarter apps
 - 📫 How to reach me ... LinkedIn
