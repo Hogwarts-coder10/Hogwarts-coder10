@@ -1,6 +1,8 @@
 # 🪄 Hi, I'm V SS Karthik
 I build things that shouldn't work, then I make them fast. I’m a Python developer currently wrestling JavaScript into submission. From deep-level database internals to making AI explain itself, I live in the "how does this actually work?" phase of development.
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hogwarts-coder10&show_icons=true&theme=radical)
+
 # 🛠️ What’s in the Cauldron?
 
 🗄️ WAL-DB: A custom database engine built from scratch using Write-Ahead Logging for atomic integrity.
