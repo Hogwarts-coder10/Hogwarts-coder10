@@ -1,16 +1,21 @@
-# Hi, I'm V SS Karthik 👋
+🪄 Hi, I'm V SS Karthik
+I build things that shouldn't work, then I make them fast. I’m a Python developer currently wrestling JavaScript into submission. From deep-level database internals to making AI explain itself, I live in the "how does this actually work?" phase of development.
 
-**I build things that shouldn't work, then I make them fast.**
+🛠️ What’s in the Cauldron?
+🗄️ WAL-DB: A custom database engine built from scratch using Write-Ahead Logging for atomic integrity.
 
-From deep-level database internals to making AI explain itself, I live in the "how does this actually work?" phase of development. I'm a Python native currently wrestling JavaScript into submission to bring my projects to the web.
+🔍 GlassBoxML: Bringing light to "Black Box" machine learning with interpretability tools.
 
-### 🛠 What I'm up to:
-* 🗄️ **Custom DB Server**: Architected a database engine from the ground up using **Write-Ahead Logging (WAL)** for atomic integrity.
-* 🔍 **GlassBoxML**: Building a toolkit to turn "Black Box" machine learning into transparent, interpretable models.
-* 🎨 **DSAViz (Loading...)**: My next mission. An interactive visualizer for Data Structures and Algorithms because logic should look as cool as it feels.
+🎨 DSAViz: (Brewing) An interactive visualizer to make Data Structures & Algorithms visible.
 
-### 🧠 My Stack:
-* **Languages:** Python (Fluent), JavaScript (Learning/Building)
-* **Interests:** Database Internals, ML Interpretability, Systems Design
+🧠 The Spellbook (Stack)
+Languages: Python (Mastered), JavaScript (Apprentice)
 
-> "Low-level logic, high-level curiosity."
+Interests: Database Internals, ML Interpretability, Systems Design
+
+📬 Reach Me
+GitHub: Hogwarts-coder10
+
+LinkedIn/Email: [Insert Link/Address Here]
+
+>"Low-level logic, high-level curiosity."
