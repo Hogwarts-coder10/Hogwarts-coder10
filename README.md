@@ -1,6 +1,7 @@
 # 🪄 Hi, I'm V SS Karthik
 I build things that shouldn't work, then I make them fast. I’m a Python developer currently wrestling JavaScript into submission. From deep-level database internals to making AI explain itself, I live in the "how does this actually work?" phase of development.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hogwarts-coder10&theme=rising-sun)](https://git.io/streak-stats)
 
 # 🛠️ What’s in the Cauldron?
 
