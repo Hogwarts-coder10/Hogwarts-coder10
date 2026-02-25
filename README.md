@@ -7,7 +7,7 @@ I build things that shouldn't work, then I make them fast. I’m a Python develo
 
 # 🛠️ What’s in the Cauldron?
 
-🗄️ WAL-DB: A custom database engine built from scratch using Write-Ahead Logging for atomic integrity.
+🗄️ WAL-DB (AnchorMed): A custom database engine built from scratch using Write-Ahead Logging for atomic integrity.
 
 🔍 GlassBoxML: Bringing light to "Black Box" machine learning with interpretability tools.
 
