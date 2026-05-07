@@ -11,7 +11,7 @@ I build things that shouldn't work, then I make them fast. I’m a Python develo
 
 🔍 GlassBoxML: Bringing light to "Black Box" machine learning with interpretability tools.
 
-🎨 DSAViz: (Brewing) An interactive visualizer to make Data Structures & Algorithms visible.
+🎨 DSAViz: (Brewing) An interactive execution engine to make Data Structures & Algorithms visible .
 
 
 # 🧠 The Spellbook (Stack)
