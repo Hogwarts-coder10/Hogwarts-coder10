@@ -16,7 +16,7 @@ I build things that shouldn't work, then I make them fast. I’m a Python develo
 
 
 # 🧠 The Spellbook (Stack)
-Languages: Python (Mastered), JavaScript (Apprentice)
+Languages: Python (Most Comfortable), JavaScript (Apprentice)
 
 Interests: Database Internals, ML Interpretability, Systems Design
 
