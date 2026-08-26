@@ -15,7 +15,7 @@ I build things that shouldn't work, then I make them fast. B.Tech CS (AI/ML) stu
 
 **ML / Interpretability**
 - 🔍 **[GlassBox-ML](https://github.com/Hogwarts-coder10/GlassBox-ML)** — An educational, NumPy-only ML library that exposes *why* a model behaves the way it does: loss history, gradients, assumption checks, failure modes, generalization estimates. Published on PyPI as `glassboxml`; basis of a paper in progress for Scientific Reports.
-- 🧠 **[GlassBoxDL](https://github.com/Hogwarts-coder10/GlassBox-DL)** — A model-agnostic deep learning interpretability library extending GlassBox-ML's philosophy to neural nets (saliency maps, Grad-CAM, activation probing), built as a semester deep learning project.
+- 🧠 **[GlassBoxDL](https://github.com/Hogwarts-coder10/GlassBox-DL)** — A model-agnostic deep learning interpretability library extending GlassBox-ML's philosophy to neural nets (saliency maps, Grad-CAM, activation probing).
 
 ## 🧠 The Spellbook (Stack)
 
