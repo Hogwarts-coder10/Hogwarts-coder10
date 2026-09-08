@@ -9,7 +9,7 @@ I build things that shouldn't work, then I make them fast. B.Tech CS (AI/ML) stu
 
 **Systems**
 - 🗄️ **[CDSA](https://github.com/Hogwarts-coder10/CDSA)** — A data structures library in C (Vector, HashMap, SkipList, ART, RingBuffer, and more), built as the foundation the rest of my systems work sits on.
-- 🔴 **Kedis-C (Upcoming)** — A Redis-inspired in-memory store written in C on top of CDSA.
+- 🔴 **[Kedis-C](https://github.com/Hogwarts-coder10/kedis-C)** — A Redis-inspired in-memory store written in C on top of CDSA.
 - 🐍 **[kedis-python](https://github.com/Hogwarts-coder10/kedis-python)** — A Redis-inspired store in Python: custom binary wire protocol (KESP), asyncio networking, master-replica replication, and optimistic-locking transactions (WATCH/UNWATCH).
 - 🏥 **[Anchor-Med](https://github.com/Hogwarts-coder10/Anchor-Med)** — An offline-first medical inventory system powered by a custom Python B-Tree engine with WAL-based crash recovery, and an Electron/React frontend.
 
